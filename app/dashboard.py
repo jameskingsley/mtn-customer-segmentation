@@ -14,7 +14,7 @@ st.markdown("### Real-Time Subscriber Persona Classification Engine")
 st.markdown("---")
 
 # Backend API endpoint configuration
-API_URL = "http://127.0.0.1:8000/predict/segment"
+API_URL = "https://mtn-customer-segmentation.onrender.com/predict/segment"
 
 # Input Sidebar (left) vs Visualization Display (right)
 col_input, col_display = st.columns([1, 2], gap="large")
