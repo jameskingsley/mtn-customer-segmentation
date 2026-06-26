@@ -4,6 +4,7 @@ An end-to-end, production-grade MLOps system that cleans subscriber telemetry da
 
  **Live Portal App:** [Streamlit Dashboard](https://mtn-customer-segmentation-8d7liyjy9guesrukxynirq.streamlit.app/)  
  **Production API Gateway:** [FastAPI Backend Engine](https://mtn-customer-segmentation.onrender.com/docs)
+**Dashboard:** [Looker Studio Dashboard](https://datastudio.google.com/s/nyxfz0bALq0) 
 
 ---
 
